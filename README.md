@@ -74,13 +74,16 @@ display_img(gradient)
 
 ### Noise img:
 <img width="575" height="539" alt="image" src="https://github.com/user-attachments/assets/aca4e562-5d18-4bd8-9277-9632bd2bf3b9" />
+
 ### Display the result of Opening
 <img width="557" height="557" alt="image" src="https://github.com/user-attachments/assets/30aca8a0-8af7-497c-91ad-b4ac109a0046" />
+
 ### Black noise img:
 <img width="603" height="572" alt="image" src="https://github.com/user-attachments/assets/cf7faf3b-cbae-4628-a50c-0d9795fb5f8a" />
 
 ### Display the result of Closing
 <img width="583" height="562" alt="image" src="https://github.com/user-attachments/assets/793c9149-2b08-400b-af70-62bb2bf4d004" />
+
 ### Gradient img:
 <img width="582" height="562" alt="image" src="https://github.com/user-attachments/assets/6843e8e2-a9c2-40a7-9260-0672283f2194" />
 
